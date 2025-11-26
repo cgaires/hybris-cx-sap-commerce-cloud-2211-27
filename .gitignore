@@ -1,5 +1,5 @@
 *
 !hybris/
 !hybris/config/
-!hybris/config/local.properties
+!hybris/config/**
 !.gitignore
